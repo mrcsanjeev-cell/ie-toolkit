@@ -117,7 +117,7 @@ http://127.0.0.1:8000/
 Average Cycle Time
 
 ```
-Average = (Reading1 + Reading2 + Reading3 + Reading4 + Reading5) / 5
+Average = (no of values) / n
 ```
 
 Production Capacity
